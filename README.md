@@ -1,1 +1,1 @@
-# Hospital_mngt_system
+this is hospital management system project
